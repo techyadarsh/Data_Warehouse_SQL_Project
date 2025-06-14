@@ -25,7 +25,6 @@ This SQL script sets up the **Bronze Layer** tables in the `DataWarhouse` databa
 - Requires the `bronze` schema to exist in the `DataWarhouse` database.
 - Assumes sufficient permissions to create and drop tables.
 
----
 
 -- Creating Tables in Bronze layer
 use DataWarhouse;
