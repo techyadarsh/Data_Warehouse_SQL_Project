@@ -15,6 +15,10 @@
   - bronze.erp_loc_a101         : ERP customer location
   - bronze.erp_px_cat_g1v2      : ERP product category and maintenance
 
+Notes:
+- Requires the `bronze` schema to exist in the `DataWarhouse` database.
+- Assumes sufficient permissions to create and drop tables.
+
 ========================================================================*/
 
 
